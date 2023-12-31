@@ -468,3 +468,15 @@ nav .fa-solid{
     display: block;
 
 }
+
+.center-image {
+    display: block;
+    margin-top: 200px;
+    margin-right: auto;
+}
+
+.center-image-pL{
+    display: block;
+    margin-top: 100px;
+    margin-right: auto;
+}
